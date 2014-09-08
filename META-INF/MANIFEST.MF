@@ -13,3 +13,4 @@ Bundle-ClassPath: .,
  Lib/AnterosPersistence.jar,
  Lib/guava-17.0.jar,
  Lib/Anteros-Persistence-Apt.jar
+Export-Package: br.com.anteros.persistence.session
